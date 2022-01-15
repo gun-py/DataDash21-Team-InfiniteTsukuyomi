@@ -1,2 +1,2 @@
 # DataDash21-Team-InfiniteTsukuyomi
-Ranked 5 solution in DataDash 2021
+Rank 5 solution in DataDash 2021
